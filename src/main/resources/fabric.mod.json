@@ -3,14 +3,16 @@
   "id": "simply_sulphur",
   "version": "1.0.0",
   "name": "Simply Sulphur",
+  "description": "Adds explosive Sulphur generating in Basalt Deltas",
   "authors": [
-    "Hyper, MCreator"
+    "HaipaDev, MCreator"
   ],
   "contact": {
-    "homepage": "https://mcreator.net",
+    "homepage": "https://modrinth.com/mod/simply-sulphur",
     "sources": ""
   },
-  "license": "Academic Free License v3.0",
+  "license": "MIT License",
+  "icon": "assets/simply_sulphur/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [

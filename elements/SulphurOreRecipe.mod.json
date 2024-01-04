@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BASALT"
+      },
+      {
+        "value": "CUSTOM:Sulphur"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BASALT"
+      },
+      {
+        "value": "CUSTOM:Sulphur"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SulphurOre"
+    },
+    "name": "sulphur_ore_recipe",
+    "namespace": "mod"
+  }
+}

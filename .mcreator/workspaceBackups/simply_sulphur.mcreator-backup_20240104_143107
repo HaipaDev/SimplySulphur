@@ -535,17 +535,6 @@
           "src/main/resources/data/simply_sulphur/recipes/sulphur_ore_recipe.json"
         ]
       }
-    },
-    {
-      "name": "LavaBucketFuel",
-      "type": "itemextension",
-      "sortid": 29,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "lava_bucket_fuel",
-      "metadata": {
-        "files": []
-      }
     }
   ],
   "variable_elements": [],
@@ -581,9 +570,9 @@
     "description": "Adds explosive Sulphur generating in Basalt Deltas",
     "author": "HaipaDev, MCreator",
     "websiteURL": "https://modrinth.com/mod/simply-sulphur",
-    "license": "MIT License",
+    "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
-    "serverSideOnly": true,
+    "serverSideOnly": false,
     "modPicture": "sulphur_q1.1-icon",
     "requiredMods": [],
     "dependencies": [],

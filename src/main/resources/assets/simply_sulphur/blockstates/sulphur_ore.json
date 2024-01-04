@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=north": {
       "model": "simply_sulphur:block/sulphur_ore"
+    },
+    "facing=east": {
+      "model": "simply_sulphur:block/sulphur_ore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "simply_sulphur:block/sulphur_ore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "simply_sulphur:block/sulphur_ore",
+      "y": 270
     }
   }
 }

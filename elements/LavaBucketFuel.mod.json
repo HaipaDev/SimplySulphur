@@ -3,11 +3,11 @@
   "_type": "itemextension",
   "definition": {
     "item": {
-      "value": "CUSTOM:SulphurBlock"
+      "value": "Items.LAVA_BUCKET"
     },
     "enableFuel": true,
     "fuelPower": {
-      "fixedValue": 32000.0
+      "fixedValue": 39000.0
     },
     "hasDispenseBehavior": false,
     "compostLayerChance": 0.0

@@ -14,6 +14,7 @@
 #FILES FOR GRADLE
 #=======================
 .gradle
+/run/
 /build/
 **/build/
 
