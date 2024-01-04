@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.haipadev.simplysulphur.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+	"SimplySulphurModRepairItemRecipeMixin"  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}

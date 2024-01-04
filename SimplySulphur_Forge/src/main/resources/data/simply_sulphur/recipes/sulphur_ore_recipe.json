@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "simply_sulphur:sulphur"
+    },
+    {
+      "item": "minecraft:basalt"
+    },
+    {
+      "item": "simply_sulphur:sulphur"
+    }
+  ],
+  "result": {
+    "item": "simply_sulphur:sulphur_ore",
+    "count": 1
+  }
+}

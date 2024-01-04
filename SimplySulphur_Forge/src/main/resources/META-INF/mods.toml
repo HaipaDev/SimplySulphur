@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="simply_sulphur"
+version="1.0.0"
+displayName="Simply Sulphur"
+credits="Created using MCreator - https://mcreator.net/about"
+displayURL="https://modrinth.com/mod/simply-sulphur"
+logoFile="logo.png"
+authors="HaipaDev, MCreator"
+description="Adds explosive Sulphur generating in Basalt Deltas"
+
+[[dependencies.simply_sulphur]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

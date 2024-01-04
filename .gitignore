@@ -13,15 +13,14 @@
 
 #FILES FOR GRADLE
 #=======================
-.gradle
-/run/
-/build/
+**/.gradle
+**/run/
 **/build/
 
 #FILES FOR MCREATOR DEV WORKSPACE
 #===============================
-/jdk/
-/logs
+**/jdk/
+**/logs
 
 #SYSTEM AND JAVA FILES
 #=====================

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "basalt_deltas",
+  "features": "simply_sulphur:sulphur_ore",
+  "step": "underground_ores"
+}

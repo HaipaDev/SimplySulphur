@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "simply_sulphur:sulphur_ore",
+    "simply_sulphur:sulphur_block",
+    "simply_sulphur:charcoal_block"
+  ]
+}

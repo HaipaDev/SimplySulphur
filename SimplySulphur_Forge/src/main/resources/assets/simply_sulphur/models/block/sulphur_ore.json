@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simply_sulphur:block/sulphur_ore_top2.1",
+    "up": "simply_sulphur:block/sulphur_ore_top2.1",
+    "north": "simply_sulphur:block/sulphur_ore_side2.1",
+    "east": "simply_sulphur:block/sulphur_ore_side2.1",
+    "south": "simply_sulphur:block/sulphur_ore_side2.1",
+    "west": "simply_sulphur:block/sulphur_ore_side2.1",
+    "particle": "simply_sulphur:block/sulphur_ore_top2.1"
+  },
+  "render_type": "solid"
+}
