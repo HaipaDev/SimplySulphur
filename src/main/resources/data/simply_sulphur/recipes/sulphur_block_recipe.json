@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simply_sulphur:sulphur"
+    },
+    "1": {
+      "item": "simply_sulphur:sulphur"
+    },
+    "2": {
+      "item": "simply_sulphur:sulphur"
+    },
+    "3": {
+      "item": "simply_sulphur:sulphur"
+    },
+    "4": {
+      "item": "simply_sulphur:sulphur"
+    },
+    "5": {
+      "item": "simply_sulphur:sulphur"
+    },
+    "6": {
+      "item": "simply_sulphur:sulphur"
+    },
+    "7": {
+      "item": "simply_sulphur:sulphur"
+    },
+    "8": {
+      "item": "simply_sulphur:sulphur"
+    }
+  },
+  "result": {
+    "item": "simply_sulphur:sulphur_block",
+    "count": 1
+  }
+}
